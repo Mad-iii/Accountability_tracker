@@ -1,0 +1,7 @@
+{
+  "name": "Forge - Social Accountability",
+  "description": "Forge is a gamified accountability platform where you build habits with friends, earn points, and climb tiers together.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
